@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:my="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    >
+
+    <!--<com.zpf.android_view.view.MyView-->
+    <!--android:id="@+id/aaa"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--my:zpfHeight="110"-->
+    <!--my:zpfWidth="50"-->
+    <!--my:zpfName="zhaopengfei"-->
+    <!--my:zpfSex="woman"-->
+    <!--my:zpfStudent="true"-->
+    <!--/>-->
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Word"
+        android:layout_marginTop="20dp"/>
+
+
+
+</LinearLayout>

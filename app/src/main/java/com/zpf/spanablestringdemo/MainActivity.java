@@ -133,7 +133,8 @@ public class MainActivity extends AppCompatActivity {
         tv11.setMovementMethod(LinkMovementMethod.getInstance());
         tv11.setHighlightColor(Color.parseColor("#36969696"));
         tv11.setText(spanStr11);
-        
+
+
         TextView tv12 = findViewById(R.id.tv12);
         String beforeText = "快快下单";
         String afterText = "(立享200元优惠)";
